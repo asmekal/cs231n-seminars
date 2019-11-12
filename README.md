@@ -24,3 +24,8 @@ Seminar 2 (training your network with PyTorch) [![Open In Colab](https://colab.r
 - training on GPU
 - reproducibility
 - explore different activations and loss functions
+
+Seminar 3 (layers & architectures) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreyzharkov/cs231n-seminars/blob/master/week3-layers-and_architectures/Layers%20%26%20Architectures.ipynb)
+- Most confusing layers: Dropout and BatchNorm
+- Most common architectures: Alexnet, VGG, Inception, Resnet, Resnext, Densenet, SENet
+
