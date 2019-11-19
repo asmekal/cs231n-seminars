@@ -29,7 +29,7 @@ Seminar 3 (layers & architectures) [![Open In Colab](https://colab.research.goog
 - Most confusing layers: Dropout and BatchNorm
 - Most common architectures: Alexnet, VGG, Inception, Resnet, Resnext, Densenet, SENet
 
-Seminar 4 (high level frameworks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreyzharkov/cs231n-seminars/blob/master/week4-frameworks/???.ipynb)
+Seminar 4 (high level frameworks)
 - PyTorch [ecosystem](https://pytorch.org/ecosystem/)
 - augmentations
 - fasi.ai vs pytorch lightning vs catalyst
