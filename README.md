@@ -34,3 +34,10 @@ Seminar 4 (high level frameworks)
 - augmentations
 - fasi.ai vs pytorch lightning vs catalyst
 - catalyst
+
+Seminar 5 (segmentation)
+- semantic segmentation with catalyst config api (based on [segmentation tutorial](https://github.com/catalyst-team/segmentation))
+
+Seminar 6 (detection)
+- understanding detection with your hands
+- [detectron2](https://github.com/facebookresearch/detectron2) - handy detection framework, [colab notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
