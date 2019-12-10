@@ -41,3 +41,6 @@ Seminar 5 (segmentation)
 Seminar 6 (detection)
 - understanding detection with your hands
 - [detectron2](https://github.com/facebookresearch/detectron2) - handy detection framework, [colab notebook](https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5)
+
+Seminar 7 (visualization) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andreyzharkov/cs231n-seminars/blob/master/week7-visualization/seminar7_interpretability_and_torchray.ipynb)
+- attribution with TorchRay
